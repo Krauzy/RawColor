@@ -1,0 +1,20 @@
+C:\Users\Trbry\Documents\RawColor\RawColor\bin\Debug\RawColor.exe.config
+C:\Users\Trbry\Documents\RawColor\RawColor\bin\Debug\RawColor.exe
+C:\Users\Trbry\Documents\RawColor\RawColor\bin\Debug\RawColor.pdb
+C:\Users\Trbry\Documents\RawColor\RawColor\obj\Debug\RawColor.csprojAssemblyReference.cache
+C:\Users\Trbry\Documents\RawColor\RawColor\obj\Debug\RawColor.FMain.resources
+C:\Users\Trbry\Documents\RawColor\RawColor\obj\Debug\RawColor.Properties.Resources.resources
+C:\Users\Trbry\Documents\RawColor\RawColor\obj\Debug\RawColor.csproj.GenerateResource.cache
+C:\Users\Trbry\Documents\RawColor\RawColor\obj\Debug\RawColor.csproj.CoreCompileInputs.cache
+C:\Users\Trbry\Documents\RawColor\RawColor\obj\Debug\RawColor.exe
+C:\Users\Trbry\Documents\RawColor\RawColor\obj\Debug\RawColor.pdb
+D:\Faculdade\6º Termo\CG\RawColor\RawColor\bin\Debug\RawColor.exe.config
+D:\Faculdade\6º Termo\CG\RawColor\RawColor\bin\Debug\RawColor.exe
+D:\Faculdade\6º Termo\CG\RawColor\RawColor\bin\Debug\RawColor.pdb
+D:\Faculdade\6º Termo\CG\RawColor\RawColor\obj\Debug\RawColor.csprojAssemblyReference.cache
+D:\Faculdade\6º Termo\CG\RawColor\RawColor\obj\Debug\RawColor.FMain.resources
+D:\Faculdade\6º Termo\CG\RawColor\RawColor\obj\Debug\RawColor.Properties.Resources.resources
+D:\Faculdade\6º Termo\CG\RawColor\RawColor\obj\Debug\RawColor.csproj.GenerateResource.cache
+D:\Faculdade\6º Termo\CG\RawColor\RawColor\obj\Debug\RawColor.csproj.CoreCompileInputs.cache
+D:\Faculdade\6º Termo\CG\RawColor\RawColor\obj\Debug\RawColor.exe
+D:\Faculdade\6º Termo\CG\RawColor\RawColor\obj\Debug\RawColor.pdb
